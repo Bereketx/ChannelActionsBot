@@ -1,6 +1,6 @@
 {
     "name": "Channel Actions Bot",
-    "description": "Channel Actions Bot for telegram, by @BotzHub.",
+    "description": "Channel Actions Bot for telegram, by @bereketx.",
     "logo": "",
     "keywords": [
         "telegram",
@@ -8,8 +8,8 @@
         "telegram-bot",
         "botzhub"
     ],
-    "repository": "https://github.com/xditya/ChannelActionsBot",
-    "website": "xditya.me",
+    "Owner": "https://t.me/bereketx",
+    "channel": "@Ethio_Apps_Store",
     "success_url": "https://t.me/BotzHub",
     "env": {
         "BOT_TOKEN": {
